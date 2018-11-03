@@ -1,0 +1,2 @@
+# blokustavo
+Model for Blokus.
